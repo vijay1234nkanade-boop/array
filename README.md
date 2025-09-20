@@ -28,6 +28,8 @@ int main(void)
     if (arr == NULL)
     {
         printf("memory allcoation failed. \n");
+        <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/9faf5751-c032-4b67-8f1a-8a41aba34844" />
+
         exit(-1);
     }
 
