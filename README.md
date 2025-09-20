@@ -28,7 +28,6 @@ int main(void)
     if (arr == NULL)
     {
         printf("memory allcoation failed. \n");
-        <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/9faf5751-c032-4b67-8f1a-8a41aba34844" />
 
         exit(-1);
     }
@@ -169,3 +168,4 @@ void merge(int* arr, int first, int mid, int last)
 }
 
 '''
+![Alt text]([path/to/image.jpg "Optional Title"](https://github.com/vijay1234nkanade-boop/array/blob/main/b93ad998-aef7-466a-82ae-02d42549b277.png))
