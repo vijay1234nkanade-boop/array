@@ -168,4 +168,4 @@ void merge(int* arr, int first, int mid, int last)
 }
 
 '''
-![Alt text]([path/to/image.jpg "Optional Title"](https://github.com/vijay1234nkanade-boop/array/blob/main/b93ad998-aef7-466a-82ae-02d42549b277.png))
+![img text](https://github.com/vijay1234nkanade-boop/array/blob/main/b93ad998-aef7-466a-82ae-02d42549b277.png)
